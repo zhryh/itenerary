@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/web/index.jsp</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/model/ItineraryItem.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/util/DatabaseConnection.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/controller/ItineraryServlet.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/model/Itinerary.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/dao/ItineraryItemDAO.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/web/itinerary.jsp</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/web/register.jsp</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/dao/ItineraryDAO.java</file>
+            <file>file:/C:/Users/asus/OneDrive/Documents/NetBeansProjects/PBOTUBES/src/java/model/User.java</file>
+        </group>
+    </open-files>
+</project-private>
